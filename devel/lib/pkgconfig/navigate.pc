@@ -1,0 +1,8 @@
+prefix=/home/osboxes/RoboticsAssigments/lab3/devel
+
+Name: navigate
+Description: Description of navigate
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/osboxes/RoboticsAssigments/lab3/devel/lib 
+Requires: 
